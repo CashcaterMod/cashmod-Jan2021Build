@@ -1,8 +1,13 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/)
+Cashmod Jan. 2021 Build
 
-## Setup
+## About
 
-See https://github.com/TurboWarp/scratch-gui/wiki/Getting-Started to setup the complete TurboWarp environment.
+The Earliest Known CashMod Build There is! Started Development Around Jan. 1st, 2021. This build's compiled on Jan. 12th.
+It's so early, it's almost stock Turbowarp.
+
+## Install
+
+See https://github.com/TurboWarp/scratch-gui/wiki/Getting-Started to setup the complete the Super Early CashMod enviorment.
 
 If you just want to play with the GUI then it's the same process as upstream scratch-gui.
 
